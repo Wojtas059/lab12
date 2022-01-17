@@ -9,4 +9,4 @@ spec:
     - name: client
       image: wojmaj/lab12:tagname
       ports:
-        - containerPort: 3000
+        - containerPort: 80
