@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: client
-      image: wojmaj/lab12:tagname
+      image: wojmaj/zadanie_2:tagname
       ports:
         - containerPort: 80
